@@ -51,10 +51,10 @@
   display: none;
   background-color: #FAFAFA;
   border: #DDDDDD 1px solid;
+  position: relative;
   border-radius: 4px;
   padding: 15%;
   z-index: 1000%;
-  position: relative;
 }
 
 .popover h2 {
