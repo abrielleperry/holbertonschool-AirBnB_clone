@@ -47,14 +47,14 @@
 }
 
 .popover {
-  list-style: none;
+  list-style-type: none;
   display: none;
   background-color: #FAFAFA;
   border: #DDDDDD 1px solid;
   border-radius: 4px;
-  width: 100%;
-  padding: 0;
-  position: absolute;
+  padding: 15%;
+  z-index: 1000%;
+  position: relative;
 }
 
 .popover h2 {
